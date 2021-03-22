@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  font-family:cursive;
+  padding: 10px;
+  text-transform: capitalize;
+  margin: 10px;
+  font-size: x-large;
+  border: black solid;
+  background-color:darkgrey;
+}
